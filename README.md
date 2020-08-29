@@ -1,2 +1,3 @@
 # Assignment-4-Pandas-Challenge
-Pandas-Challenge
+<!-- Pandas-Challenge
+In this challenge we were asked to utilize Pandas to analyze data for a gaming company. The information provided from the csv file had information based on player, gender, items bought, item price, etc. From the information provided we were tasked with answering questions regarding Total Purchasing Analysis, Gender Demographics,  Gender Purchasing Analysis, Age Demographics, Age Purchasing Analysis, Top Spenders, Most Popular Item, and Most Profitable Items. The major trends observed were 84% of the players are male, 45% of players fall within the 20-24 age range, and our most po-->
